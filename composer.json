@@ -1,0 +1,17 @@
+{
+    "name": "illusivedev/bddistricts",
+    "description": "all bd districts",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [{
+        "name" : "Illusive",
+        "email": "illusive.dev@gmail.com"
+    }],
+    "require": {
+
+    },
+    "require-dev": {
+        "orchestra/testbench": "^5.0@dev"
+    }
+}
